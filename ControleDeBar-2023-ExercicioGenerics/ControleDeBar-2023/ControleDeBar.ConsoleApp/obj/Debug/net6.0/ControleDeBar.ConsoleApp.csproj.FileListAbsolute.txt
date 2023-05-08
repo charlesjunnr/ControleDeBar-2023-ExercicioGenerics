@@ -1,0 +1,45 @@
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.exe
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.deps.json
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.runtimeconfig.json
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfo.cs
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\refint\ControleDeBar.ConsoleApp.dll
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.genruntimeconfig.cache
+C:\Users\ALUNO\Source\Repos\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ref\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.exe
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.deps.json
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.runtimeconfig.json
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfo.cs
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\refint\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.genruntimeconfig.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-prova\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ref\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfo.cs
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\refint\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.exe
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.deps.json
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.runtimeconfig.json
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.genruntimeconfig.cache
+C:\Users\Charles Junior\Source\Repos\ControleDeBar-2023-ExercicioGenerics\ControleDeBar-2023\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ref\ControleDeBar.ConsoleApp.dll
